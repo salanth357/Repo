@@ -34,4 +34,4 @@ jobs:
 
       - name: Push changes
         if: steps.verify-repo-changed.outputs.changed == 'true'
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
