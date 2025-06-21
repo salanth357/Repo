@@ -1,9 +1,9 @@
 [
   {
-    "Author": "Salanth",
+    "Author": "salanth357",
     "Name": "SalanthTweaks",
     "InternalName": "SalanthTweaks",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.1.2",
     "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
     "ApplicableVersion": "any",
     "Tags": [],
@@ -16,8 +16,8 @@
     "AcceptsFeedback": true,
     "Changelog": "Initial Release",
     "DownloadCount": 0,
-    "LastUpdate": 1748929710,
-    "DownloadLinkInstall": "https://github.com/salanth357/SalanthTweaks/releases/download/v1.0.0/FFXIVClientStructs.dll",
-    "DownloadLinkUpdate": "https://github.com/salanth357/SalanthTweaks/releases/download/v1.0.0/FFXIVClientStructs.dll"
+    "LastUpdate": 1750533410,
+    "DownloadLinkInstall": "https://github.com/salanth357/SalanthTweaks/releases/download/v1.1.2/FFXIVClientStructs.dll",
+    "DownloadLinkUpdate": "https://github.com/salanth357/SalanthTweaks/releases/download/v1.1.2/FFXIVClientStructs.dll"
   }
 ]
