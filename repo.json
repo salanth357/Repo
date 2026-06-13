@@ -3,11 +3,11 @@
     "Author": "salanth357",
     "Name": "SalanthTweaks",
     "InternalName": "SalanthTweaks",
-    "AssemblyVersion": "1.2.1",
-    "Description": "Some kind of mistake, I'm sure",
+    "AssemblyVersion": "1.2.3",
+    "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
     "ApplicableVersion": "any",
     "Tags": [],
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "LoadRequiredState": 2,
     "LoadSync": true,
     "CanUnloadAsync": false,
@@ -15,9 +15,9 @@
     "Punchline": "My weird random tweaks",
     "AcceptsFeedback": true,
     "Changelog": "Initial Release",
-    "DownloadCount": 1,
-    "LastUpdate": 1766370705,
-    "DownloadLinkInstall": "https://github.com/salanth357/SalanthTweaks/releases/download/v1.2.1/FFXIVClientStructs.dll",
-    "DownloadLinkUpdate": "https://github.com/salanth357/SalanthTweaks/releases/download/v1.2.1/FFXIVClientStructs.dll"
+    "DownloadCount": 0,
+    "LastUpdate": 1781310427,
+    "DownloadLinkInstall": "https://github.com/salanth357/SalanthTweaks/releases/download/v1.2.3/FFXIVClientStructs.dll",
+    "DownloadLinkUpdate": "https://github.com/salanth357/SalanthTweaks/releases/download/v1.2.3/FFXIVClientStructs.dll"
   }
 ]
